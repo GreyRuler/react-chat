@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-chat/static/css/main.0912f7f7.css",
+    "main.js": "/react-chat/static/js/main.c94d5ad9.js",
+    "static/js/787.35cea4b2.chunk.js": "/react-chat/static/js/787.35cea4b2.chunk.js",
+    "index.html": "/react-chat/index.html",
+    "main.0912f7f7.css.map": "/react-chat/static/css/main.0912f7f7.css.map",
+    "main.c94d5ad9.js.map": "/react-chat/static/js/main.c94d5ad9.js.map",
+    "787.35cea4b2.chunk.js.map": "/react-chat/static/js/787.35cea4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0912f7f7.css",
+    "static/js/main.c94d5ad9.js"
+  ]
+}
